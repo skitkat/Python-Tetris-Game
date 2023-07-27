@@ -1,5 +1,4 @@
 # Python-Tetris-Game
-"""
 
 A simple implementation of the classic Tetris game in Python using `pygame`.
 
